@@ -1,0 +1,59 @@
+
+Vertragsmanagment
+
+https://app.legartis.ai/quick-actions
+
+https://app.tomorro.com/reports
+
+Datenbank: SQL workbench
+Backend logik: Python
+
+Ist-Zustand:
+Momentan wird keine vertragsmanagement
+software benutzt. 
+Heute werden die verträge mental 
+gespeichert und bearbeitet wenn bewerber
+sich ofter meldet. Kündigungsfristen 
+werden oft verpasst und veraltete
+verträge werden manchmal nicht
+gekündigt.
+
+ER-Modell (tabellen und attribute)
+---- Workbench ----
+
+=> C:\Users\CC-Student\Desktop\Vertragsmanagementsystem\ER-Diagramm.drawio
+
+UML-Klassendiagram
+----Python Code----
+
+=> C:\Users\CC-Student\Desktop\Vertragsmanagementsystem\
+
+laufzeit verlängerung dazufügen preis vergleich
+
+
+
+
+
+
+
+
+{
+
+Die Beantragung eines Prüfungsvouchers
+erfolgt schriftlich über das Formular „Antrag_Prüfungsgutschein
+(Voucher)_Umschulung“ im Downloadbereich des CC-Portals. Das ausgefüllte
+Formular senden Sie bitte an: pruefungsanmeldung@comcave.com
+
+Professional SCRUM Master PSM I
+Scrum.org1
+
+Linux Professional Institute Certification,
+Level 1 (LPIC-1)
+
+ MS Azure Database Administrator
+Associate (DP 300)
+
+Java Certified Foundations Associate
+(1Z0-811)
+
+}
