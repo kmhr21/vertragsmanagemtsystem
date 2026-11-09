@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "reihenfolge": [
     "nummer",
@@ -37,4 +38,45 @@
     "partner",
     true
   ]
+=======
+{
+  "reihenfolge": [
+    "nummer",
+    "titel",
+    "partner",
+    "art",
+    "verantwortlich",
+    "abteilung",
+    "laufzeit",
+    "beginn",
+    "ende",
+    "stichtag",
+    "tage",
+    "kosten",
+    "status"
+  ],
+  "ausgeblendet": [
+    "stichtag",
+    "tage"
+  ],
+  "breiten": {
+    "nummer": 95,
+    "titel": 160,
+    "partner": 140,
+    "art": 100,
+    "verantwortlich": 115,
+    "abteilung": 98,
+    "laufzeit": 149,
+    "beginn": 122,
+    "ende": 216,
+    "stichtag": 95,
+    "tage": 80,
+    "kosten": 213,
+    "status": 317
+  },
+  "sortierung": [
+    "partner",
+    true
+  ]
+>>>>>>> 8bf63d24db1b4425881b40d3dd1f25fbceb3e47d
 }
